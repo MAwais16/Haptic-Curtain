@@ -6,5 +6,11 @@ Haptic Interface
 
 /PCL/
     aquisition of depth data using PCL library. Better use PCL_Visualizer for visualizing for more control.
-
+    
+    in PCL
+    >mkdir build
+    >cd build
+    >cmake ..
+    >make
+    
     
